@@ -21,6 +21,17 @@
   </li>
 </ol>
 
+
+<ol>
+  <li>
+    <strong>Define your main goal</strong><br>
+    Before starting any time series analysis, clearly define what you want to achieve. 
+    Are you trying to forecast future values, detect anomalies, or understand underlying patterns? 
+    Having a specific goal will guide your choice of methods and models.
+  </li>
+</ol>
+
+
 <hr>
 
 <p><em>Stay tuned for more updates!</em></p>
