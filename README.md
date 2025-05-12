@@ -44,8 +44,4 @@
 </ol>
 
 
-
-
-<hr>
-
 <p><em>Stay tuned for more updates!</em></p>
