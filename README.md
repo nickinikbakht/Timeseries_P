@@ -19,10 +19,6 @@
     The first and essential step is to understand the structure, patterns, and behavior of time series data. 
     This includes trends, seasonality, noise, and stationarity.
   </li>
-</ol>
-
-
-<ol>
   <li>
     <strong>Define your main goal</strong><br>
     Before starting any time series analysis, clearly define what you want to achieve. 
@@ -30,6 +26,7 @@
     Having a specific goal will guide your choice of methods and models.
   </li>
 </ol>
+
 
 
 <hr>
